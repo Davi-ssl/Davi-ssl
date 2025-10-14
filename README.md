@@ -40,8 +40,8 @@
 
 <div align="center">
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Davi-ssl&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-ssl&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" />
 
 </div>
 
